@@ -1,0 +1,8 @@
+📊 Báo cáo số lượng thú cưng theo loài:
+
+cat: 2 thú cưng
+bird: 2 thú cưng
+snake: 1 thú cưng
+dog: 3 thú cưng
+
+✅ Báo cáo đã được lưu thành công!
